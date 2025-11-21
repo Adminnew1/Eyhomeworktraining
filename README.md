@@ -1,2 +1,2 @@
 # Eyhomeworktraining
-This is my training repository(Dj)
+This is my training repository(Dj) new
