@@ -1,2 +1,2 @@
 # Eyhomeworktraining
-This is my training repository(Dj) new
+This is my about page
